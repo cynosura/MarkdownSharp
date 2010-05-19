@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownSharp", "MarkdownSharp\MarkdownSharp.csproj", "{E9E51AED-15D4-4877-8C9B-3443F895AB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9E51AED-15D4-4877-8C9B-3443F895AB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E51AED-15D4-4877-8C9B-3443F895AB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E51AED-15D4-4877-8C9B-3443F895AB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E51AED-15D4-4877-8C9B-3443F895AB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
