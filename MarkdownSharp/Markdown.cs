@@ -183,7 +183,7 @@ namespace MarkdownSharp
 						string str = ReadToCharacter('`', i + 2, input);
 						while (input[i + str.Length + 3] != '`')
 						{
-							str += ReadToCharacter('`', i + str.Length + 3, input);
+							str += "`" + ReadToCharacter('`', i + str.Length + 3, input);
 						}
 						string tbr = "``" + str + "``";
 						str = str.Replace("&", "&amp;");
